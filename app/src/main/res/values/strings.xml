@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="purchase_code">Your Purchase Code Here</string>
+    <string name="website_url">Your Website URL Here</string>
+
+    <!-- Set onesignal_status to ENABLED to Activate Onesignal Notification -->
+    <string name="onesignal_status">DISABLED</string>
+    <string name="onesignal_app_id">Your OneSignal App ID Here</string>
+
+    <!-- Set admob_status to ENABLED to Activate Admob Interstitial Ad -->
+    <string name="admob_status">DISABLED</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- Enable/Disable Fullscreen Mode -->
+    <string name="fullscreen_status">ENABLED</string>
+
+    <!-- Translation - Change the below Strings to your language translation  -->
+    <string name="internet_status">Your Device is not connected to Internet</string>
+    <string name="error">Error</string>
+    <string name="no_network">No Network Connection</string>
+    <string name="ok">OK</string>
+    <string name="twice_exit">Press Again To Exit</string>
+    <string name="file_exists">File Already Exists : </string>
+    <string name="downloading">Downloading : </string>
+    <string name="download_progress">Download in Progress</string>
+    <string name="download_completed">Download Completed</string>
+</resources>
